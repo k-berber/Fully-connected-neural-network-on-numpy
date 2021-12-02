@@ -1,0 +1,2 @@
+# Fully-connected-neural-network-on-numpy
+In this task, we will train a fully connected neural network to recognize handwritten numbers by independently implementing all the components of the learning and prediction algorithm: ReLU nonlinearity layer, fully connected layer, gradient checker, softmax layer implementation and loss functions, and some experiments with the number of layers, various initializations of weights, and various activation functions
